@@ -1,6 +1,6 @@
-## <div align="center">Project name</div>
+## <div align="center">Weather App</div>
 
-#### <div align="center">💻 _Learning project for (..................) (date)_ </div>
+#### <div align="center">💻 _Learning project for Asynchrony and APIs_ </div>
 
 **_<p align="right">By Daniya Yelemessova_**</p>
 
@@ -22,7 +22,6 @@
 - Node.js and npm
 - npm Packages
 - Linter(ESLint)
-- Testing Framework(Jest)
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
@@ -56,23 +55,10 @@ API_KEY=your-api-key-here
 
 </details>
 
-## <div align="center"> ⌨️ _Tests_
-
-```
-describe('Name', () => {
-
-  test('description of the test', () => {
-    expect().toEqual();
-    expect().toEqual();
-    expect().toEqual();
-  });
-});
-
 ```
 
 
 ### <div align="center"> 🤔 _Description:_
-
 
 
 
